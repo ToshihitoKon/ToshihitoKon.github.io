@@ -13,34 +13,29 @@ header{
 }
 .main_nav h1{
 	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+	cursor: pointer;
 }
 .title{
 	float: left;
-	margin-left: 10px;
-	margin-right: 10px;
-	width: 350px;
-	text-align: center;
-	cursor: pointer;
+	width: 400px;
 }
-.btn_reg{
-	margin-left: 10px;
-	margin-right: 10px;
+.btn_lnk{
 	float: right;
 	width: 150px;
-	text-align: center;
-	cursor: pointer;
 }
-.btn_sta{
-	margin-left: 10px;
-	margin-right: 10px;
+.btn_wok{
 	float: right;
 	width: 150px;
-	text-align: center;
-	cursor: pointer;
+}
+.btn_abt{
+	float: right;
+	width: 150px;
 }
 .main{
 	padding-top: 80px;
-	position: fixed;
 }
 .obj1{
 	margin-right: 3.7em;
