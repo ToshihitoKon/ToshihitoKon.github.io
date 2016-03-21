@@ -39,7 +39,8 @@ header{
 	cursor: pointer;
 }
 .main{
-	padding-top: 60px;
+	padding-top: 80px;
+	position: fixed;
 }
 .obj1{
 	margin-right: 3.7em;
