@@ -1,0 +1,28 @@
+$(function(){
+    $(".title").hover(
+    function(){
+        $(this).css("background","rgba(80,80,80,0.9)")
+    },
+    function(){
+        $(this).css("background","rgba(0,0,0,0)")
+    });
+});
+$(function(){
+    $(".btn_reg").hover(
+    function(){
+        $(this).css("background","rgba(80,80,80,0.9)")
+    },
+    function(){
+        $(this).css("background","rgba(0,0,0,0)")
+    });
+});
+$(function(){
+    $(".btn_sta").hover(
+    function(){
+        $(this).css("background","rgba(80,80,80,0.9)")
+    },
+    function(){
+        $(this).css("background","rgba(0,0,0,0)")
+    });
+});
+

@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+}
+body{
+	font-family: arial, "ubuntu", "Meiryo";
+}
+header{
+	margin: 0;
+	width: 100%;
+	position: fixed;
+	background-color: rgba(30,30,30,0.9);
+	color: #FFF;
+}
+.main_nav h1{
+	display: inline;
+}
+.title{
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 300px;
+	text-align: center;
+}
+.btn_reg{
+	margin-left: 10px;
+	margin-right: 10px;
+	float: right;
+	width: 150px;
+	text-align: center;
+	cursor: pointer;
+}
+.btn_sta{
+	margin-left: 10px;
+	margin-right: 10px;
+	float: right;
+	width: 150px;
+	text-align: center;
+	cursor: pointer;
+}
+.main{
+	padding-top: 60px;
+}
+.obj1{
+	margin-right: 3.7em;
+	margin-left: 3.7em;
+}
