@@ -12,12 +12,18 @@ header{
 	background-color: rgba(30,30,30,0.9);
 	color: #FFF;
 }
-.main_nav h1{
+.main_nav{
+	margin: auto;
+}
+.btn{
 	display: inline;
 	margin-left: 10px;
 	margin-right: 10px;
 	text-align: center;
 	cursor: pointer;
+}
+.btn:hover{
+	background: rgba(80, 80, 80, 0.9)
 }
 .title{
 	float: left;
